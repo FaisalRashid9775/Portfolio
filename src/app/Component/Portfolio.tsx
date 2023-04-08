@@ -1,5 +1,5 @@
 import React from 'react'
-import Image1 from '../../../public/1.png'
+import Image1 from '../../../public/piaic.png'
 import image2 from '../../../public/panaversedao.gif'
 import image3 from '../../../public/piaictailwind.gif'
 import image4 from '../../../public/panaversetail.gif'
