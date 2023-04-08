@@ -13,8 +13,8 @@ export default function Portfolio() {
     <div className='bg-slate-100'>
       <h1 className='text-3xl text-center py-10'>My Portfolio</h1>
       <div className='grid grid-cols-1 md:grid-cols-3 gap-10 mx-6'>
-       <div className='bg-white rounded-b-xl w-80 shadow-xl'>
-        <Image className=' rounded-t-xl' src={image2} alt='piaic' width={316} height={160}/>
+       <div className='bg-white rounded-xl w-80 shadow-xl'>
+        <Image className='' src={image2} alt='piaic' width={316} height={160}/>
         <h1 className=' p-5 text-xl font-bold'>PIAIC Website by Tailwind</h1>
         <div className='flex justify-around text-3xl text-white py-4 text-center'>
           <AiFillGithub className=' hover: text-green-500 hover:scale-110'/>
@@ -22,8 +22,8 @@ export default function Portfolio() {
         </div>
        </div>
 
-       <div className='bg-white rounded-b-xl w-80'>
-        <Image className=' rounded-t-xl' src={Image1} alt='piaic' width={316} height={160}/>
+       <div className='bg-white rounded-xl w-80'>
+        <Image className='' src={Image1} alt='piaic' width={316} height={160}/>
         <h1 className=' p-5 text-xl font-bold'>Panaverse DAO using chakra UI</h1>
         <div className='flex justify-around text-3xl text-white py-4 text-center'>
           <AiFillGithub className=' hover: text-green-500 hover:scale-110'/>
@@ -31,8 +31,8 @@ export default function Portfolio() {
         </div>
        </div>
 
-       <div className='bg-white rounded-b-xl w-80'>
-        <Image className=' rounded-t-xl' src={image3} alt='piaic' width={316} height={160}/>
+       <div className='bg-white rounded-xl w-80'>
+        <Image className='' src={image3} alt='piaic' width={316} height={160}/>
         <h1 className=' p-5 text-xl font-bold'>PIAIC Website using Chakra</h1>
         <div className='flex justify-around text-3xl text-white py-4 text-center'>
           <AiFillGithub className=' hover: text-green-500 hover:scale-110'/>
@@ -40,8 +40,8 @@ export default function Portfolio() {
         </div>
        </div>
 
-       <div className='bg-white rounded-b-xl w-80'>
-        <Image className=' rounded-t-xl' src={image4} alt='piaic' width={316} height={160}/>
+       <div className='bg-white rounded-xl w-80'>
+        <Image className='' src={image4} alt='piaic' width={316} height={160}/>
         <h1 className=' p-5 text-xl font-bold'>Panaverse DAO using Tailwind</h1>
         <div className='flex justify-around text-3xl text-white py-4 text-center'>
           <AiFillGithub className=' hover: text-green-500 hover:scale-110'/>
@@ -49,8 +49,8 @@ export default function Portfolio() {
         </div>
        </div>
 
-       <div className='bg-white rounded-b-xl w-80'>
-        <Image className=' rounded-t-xl' src={image5} alt='piaic' width={316} height={160}/>
+       <div className='bg-white rounded-xl w-80'>
+        <Image className='' src={image5} alt='piaic' width={316} height={160}/>
         <h1 className=' p-5 text-xl font-bold'>TO DO App using chakra UI</h1>
         <div className='flex justify-around text-3xl text-white py-4 text-center'>
           <AiFillGithub className=' hover: text-green-500 hover:scale-110'/>
